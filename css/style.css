@@ -1,0 +1,46 @@
+
+.container{
+	width: 1440px;
+	background-color: #F6F8F9;
+	padding: 20px;
+	margin: 0 auto;
+}
+li{
+	display: inline-block;
+}
+.navi{
+	vertical-align: middle;
+	display: inline-block;
+	font-family: 'Barlow', sans-serif;
+	font-size: 11px;
+	text-transform: uppercase;
+}
+.home{
+	margin-right: 27px;
+
+}
+.color{
+	color:black;
+}
+.discov{
+	margin-right: 22px;
+}
+.photo{
+	margin-right: 22px;
+}
+.contact{
+	margin-right: 40px;
+}
+.girl{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	border-radius: 100%;
+	vertical-align: middle;
+}
+.inline{
+	display: inline-block;
+}
+.barlow{
+	font-family: 'Barlow', sans-serif;
+}
